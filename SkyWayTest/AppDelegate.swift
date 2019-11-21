@@ -12,7 +12,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    var skywayAPIKey:String? = "0733c511-5811-4446-add2-d2a6120aed9d"
+    var skywayAPIKey:String? = "YOUR_APY_KEY"
     var skywayDomain:String? = "localhost"
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
